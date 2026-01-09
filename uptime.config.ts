@@ -84,7 +84,7 @@ const workerConfig: WorkerConfig = {
       id: 'Server',
       name: 'QQBOT服务器',
       method: 'TCP_PING',
-      target: 'k1.sjcm.cn:5912',
+      target: 'k1.sjcmc.cn:5912',
       timeout: 5000,
     },
     {
